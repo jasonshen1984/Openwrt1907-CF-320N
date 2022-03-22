@@ -9,6 +9,8 @@ luci-theme-argon https://github.com/jerrykuku/luci-theme-argon
 
 ShadowSocksR Plus+ 
 
+设备参数
+
 主机型号	COMFAST CF-E320N v2
 
 架构	Qualcomm Atheros QCA9533 ver 2 rev 0 x 1
